@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "discover",
+  "version": "${version}",
+
+  "name": "Discover Mod",
+  "description": "",
+  "authors": [
+    "Albert"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/discover/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "discover.Discover"
+    ]
+  },
+  "mixins": [
+    "discover.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

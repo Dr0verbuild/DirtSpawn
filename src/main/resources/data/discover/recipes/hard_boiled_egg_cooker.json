@@ -1,0 +1,227 @@
+    {
+      "type": "minecraft:smoking",
+      "ingredient": {
+        
+      },
+	  "ingredient": [
+			{
+				"item": "discover:ore_spawn"
+			},
+			{
+				"item": "discover:ore_spawn_overworld_0"
+			},
+			{
+				"item": "discover:ore_spawn_nether"
+			},
+			{
+				"item": "discover:ore_spawn_end"
+			},
+			{
+				"item": "discover:ore_bat"
+			},
+			{
+				"item": "discover:ore_bee"
+			},
+			{
+				"item": "discover:ore_cat"
+			},
+			{
+				"item": "discover:ore_chicken"
+			},
+			{
+				"item": "discover:ore_cod"
+			},
+			{
+				"item": "discover:ore_cow"
+			},
+			{
+				"item": "discover:ore_fox"
+			},
+			{
+				"item": "discover:ore_horse"
+			},
+			{
+				"item": "discover:ore_llama"
+			},
+			{
+				"item": "discover:ore_mooshroom"
+			},
+			{
+				"item": "discover:ore_mule"
+			},
+			{
+				"item": "discover:ore_ocelot"
+			},
+			{
+				"item": "discover:ore_panda"
+			},
+			{
+				"item": "discover:ore_parrot"
+			},
+			{
+				"item": "discover:ore_pig"
+			},
+			{
+				"item": "discover:ore_pufferfish"
+			},
+			{
+				"item": "discover:ore_rabbit"
+			},
+			{
+				"item": "discover:ore_salmon"
+			},
+			{
+				"item": "discover:ore_sheep"
+			},
+			{
+				"item": "discover:ore_squid"
+			},
+			{
+				"item": "discover:ore_tropical_fish"
+			},
+			{
+				"item": "discover:ore_turtle"
+			},
+			{
+				"item": "discover:ore_cave_spider"
+			},
+			{
+				"item": "discover:ore_creeper"
+			},
+			{
+				"item": "discover:ore_dolphin"
+			},
+			{
+				"item": "discover:ore_donkey"
+			},
+			{
+				"item": "discover:ore_drowned"
+			},
+			{
+				"item": "discover:ore_endermite"
+			},
+			{
+				"item": "discover:ore_husk"
+			},
+			{
+				"item": "discover:ore_phantom"
+			},
+			{
+				"item": "discover:ore_pillager"
+			},
+			{
+				"item": "discover:ore_polar_bear"
+			},
+			{
+				"item": "discover:ore_silverfish"
+			},
+			{
+				"item": "discover:ore_skeleton"
+			},
+			{
+				"item": "discover:ore_slime"
+			},
+			{
+				"item": "discover:ore_spider"
+			},
+			{
+				"item": "discover:ore_stray"
+			},
+			{
+				"item": "discover:ore_strider"
+			},
+			{
+				"item": "discover:ore_trader_llama"
+			},
+			{
+				"item": "discover:ore_vex"
+			},
+			{
+				"item": "discover:ore_wandering_trader"
+			},
+			{
+				"item": "discover:ore_witch"
+			},
+			{
+				"item": "discover:ore_wolf"
+			},
+			{
+				"item": "discover:ore_zombie"
+			},
+			{
+				"item": "discover:ore_zombie_horse"
+			},
+			{
+				"item": "discover:ore_zombie_villager"
+			},
+			{
+				"item": "discover:ore_giant"
+			},
+			{
+				"item": "discover:ore_guardian"
+			},
+			{
+				"item": "discover:ore_hoglin"
+			},
+			{
+				"item": "discover:ore_magma_cube"
+			},
+			{
+				"item": "discover:ore_piglin"
+			},
+			{
+				"item": "discover:ore_skeleton_horse"
+			},
+			{
+				"item": "discover:ore_villager"
+			},
+			{
+				"item": "discover:ore_vindicator"
+			},
+			{
+				"item": "discover:ore_zoglin"
+			},
+			{
+				"item": "discover:ore_zombified_piglin"
+			},
+			{
+				"item": "discover:ore_blaze"
+			},
+			{
+				"item": "discover:ore_enderman"
+			},
+			{
+				"item": "discover:ore_ghast"
+			},
+			{
+				"item": "discover:ore_piglin_brute"
+			},
+			{
+				"item": "discover:ore_ravager"
+			},
+			{
+				"item": "discover:ore_shulker"
+			},
+			{
+				"item": "discover:ore_wither_skeleton"
+			},
+			{
+				"item": "discover:ore_elder_guardian"
+			},
+			{
+				"item": "discover:ore_ender_dragon"
+			},
+			{
+				"item": "discover:ore_evoker"
+			},
+			{
+				"item": "discover:ore_illusioner"
+			},
+			{
+				"item": "discover:ore_wither"
+			}
+		],
+      "result": "discover:hard_boiled_egg",
+      "experience": 0.5,
+      "cookingtime": 50
+    }

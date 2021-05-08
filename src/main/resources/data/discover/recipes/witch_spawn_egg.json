@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_witch"
+    },
+    {
+      "item": "discover:ore_witch"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "minecraft:witch_spawn_egg",
+    "count": 1
+  }
+}

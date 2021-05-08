@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_fox"
+    },
+    {
+      "item": "discover:ore_fox"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "minecraft:fox_spawn_egg",
+    "count": 1
+  }
+}

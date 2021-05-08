@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_ravager"
+    },
+    {
+      "item": "discover:ore_ravager"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ravager_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_giant"
+    },
+    {
+      "item": "discover:ore_giant"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "discover:giant_spawn_egg",
+    "count": 1
+  }
+}

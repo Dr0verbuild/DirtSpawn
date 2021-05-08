@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_wandering_trader"
+    },
+    {
+      "item": "discover:ore_wandering_trader"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "minecraft:wandering_trader_spawn_egg",
+    "count": 1
+  }
+}

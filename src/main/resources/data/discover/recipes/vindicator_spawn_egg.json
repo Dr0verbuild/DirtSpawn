@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_vindicator"
+    },
+    {
+      "item": "discover:ore_vindicator"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "minecraft:vindicator_spawn_egg",
+    "count": 1
+  }
+}

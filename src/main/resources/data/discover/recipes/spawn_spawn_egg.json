@@ -1,0 +1,43 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "discover:ore_spawn"
+      },
+	  {
+        "item": "discover:ore_spawn_overworld_0"
+      },
+	  {
+        "item": "discover:ore_spawn_nether"
+      },
+      {
+        "item": "discover:ore_spawn_end"
+      }
+    ],
+    [
+      {
+        "item": "discover:ore_spawn"
+      },
+      {
+        "item": "discover:ore_spawn_overworld_0"
+      },
+      {
+        "item": "discover:ore_spawn_nether"
+      },
+      {
+        "item": "discover:ore_spawn_end"
+      }
+    ],
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "result": {
+    "item": "discover:spawn_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_elder_guardian"
+    },
+    {
+      "item": "discover:ore_elder_guardian"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "result": {
+    "item": "minecraft:elder_guardian_spawn_egg",
+    "count": 1
+  }
+}

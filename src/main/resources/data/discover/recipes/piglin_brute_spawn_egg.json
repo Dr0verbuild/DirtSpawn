@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_piglin_brute"
+    },
+    {
+      "item": "discover:ore_piglin_brute"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "minecraft:piglin_brute_spawn_egg",
+    "count": 1
+  }
+}

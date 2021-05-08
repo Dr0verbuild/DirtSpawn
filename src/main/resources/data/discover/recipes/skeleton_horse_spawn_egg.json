@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_skeleton_horse"
+    },
+    {
+      "item": "discover:ore_skeleton_horse"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "minecraft:skeleton_horse_spawn_egg",
+    "count": 1
+  }
+}

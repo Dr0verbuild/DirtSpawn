@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "discover.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "DiscoverMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_wither_skeleton"
+    },
+    {
+      "item": "discover:ore_wither_skeleton"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "minecraft:wither_skeleton_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "discover:ore_magma_cube"
+    },
+    {
+      "item": "discover:ore_magma_cube"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magma_cube_spawn_egg",
+    "count": 1
+  }
+}
